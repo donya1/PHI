@@ -1,0 +1,17 @@
+
+tfoot input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+    }
+
+ .hidden {
+	display:none;
+	background-color:#DCDCDC;
+}
+
+.view{
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+}
